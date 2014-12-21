@@ -1,9 +1,10 @@
-"g-monsterhunt"
+"gmonsterhunt"
 {
 	"base"		"base"
 	"title"		"Monster Hunt"
 	"maps"		"mh_"
 	"menusystem		"1"
+	"workshopid		""
 	
 	"settings"
 	{
