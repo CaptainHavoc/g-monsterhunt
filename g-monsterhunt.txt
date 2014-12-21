@@ -1,0 +1,12 @@
+"g-monsterhunt"
+{
+	"base"		"base"
+	"title"		"Monster Hunt"
+	"maps"		""
+	"menusystem		"1"
+	
+	"settings"
+	{
+		// No settings yet
+	}
+}
