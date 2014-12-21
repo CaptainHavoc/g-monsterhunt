@@ -11,7 +11,7 @@
 		1
 		{
 			"name"		"mh_maxdeaths"
-			"text"		"Max Deaths"
+			"text"		"THE END IS NIGH"
 			"help"		"Maximum number of deaths before a round ends"
 			"type"		"Numeric"
 			"default"	"#EBOLA420"
