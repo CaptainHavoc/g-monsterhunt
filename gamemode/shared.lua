@@ -4,5 +4,7 @@ GM.Email = "N/A"
 GM.Website = "N/A"
 
 function GM:Initialize()
-	-- Stuff
+	GM:CreateTeams()
+	team.SetUp(1,"Red",Color(50,0,0),true)
+	team.SetUp(2,"Gold",Color(50,50,0),true)
 end
