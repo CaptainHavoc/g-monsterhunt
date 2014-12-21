@@ -2,7 +2,7 @@
 {
 	"base"		"base"
 	"title"		"Monster Hunt"
-	"maps"		""
+	"maps"		"mh_"
 	"menusystem		"1"
 	
 	"settings"
