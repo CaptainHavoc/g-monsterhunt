@@ -2,12 +2,19 @@
 {
 	"base"		"base"
 	"title"		"Monster Hunt"
-	"maps"		"mh_"
-	"menusystem		"1"
-	"workshopid		""
+	"maps"		"^mh_"
+	"menusystem"		"1"
+	"workshopid"		""
 	
 	"settings"
 	{
-		// No settings yet
+		1
+		{
+			"name"		"mh_maxdeaths"
+			"text"		"Max Deaths"
+			"help"		"Maximum number of deaths before a round ends"
+			"type"		"Numeric"
+			"default"	"15"
+		}
 	}
 }
