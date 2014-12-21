@@ -16,5 +16,13 @@
 			"type"		"Numeric"
 			"default"	"15"
 		}
+		2
+		{
+			"name"		"mh_fartknock"
+			"text"		"Fart Knock"
+			"help"		"Should fart knocking be allowed?"
+			"type"		"Checkbox"
+			"default"	"false"
+		}
 	}
 }
