@@ -1,10 +1,4 @@
 include("shared.lua")
-<<<<<<< HEAD
-local w = ScrW()
-
-function GM:ScoreboardShow()
-	draw.WordBox(2,10,10,"derp","Trebuchet24",Color(0,0,0),Color(255,255,255))
-=======
 
 local board=false
 function GM:ScoreboardShow()
@@ -28,5 +22,4 @@ function GM:HUDDrawScoreBoard()
 		draw.DrawText( ply:GetName(), "ChatFont", x + 3, (y+3)+ycount, team.GetColor( ply:Team() ), TEXT_ALIGN_LEFT ) 
 	end
 
->>>>>>> origin/master
 end
