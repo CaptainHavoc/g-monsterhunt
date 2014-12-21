@@ -14,7 +14,7 @@
 			"text"		"Max Deaths"
 			"help"		"Maximum number of deaths before a round ends"
 			"type"		"Numeric"
-			"default"	"15"
+			"default"	"#EBOLA420"
 		}
 		2
 		{
