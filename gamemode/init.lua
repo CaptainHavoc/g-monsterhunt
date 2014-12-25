@@ -9,6 +9,6 @@ function GM:PlayerSpawn(ply)
 	ply:SetTeam(a)
 	print( ply:Nick() .. " joined team " .. b )
 	ply:SetModel("models/player/group03/male_0" .. math.random(1,9) .. ".mdl")
-	ply:Give("cw_bizongsm")
+	ply:Give("weapon_smg1")
 end
 
